@@ -16,6 +16,7 @@ const chien = {
     "Exploring cloud deployment and DevOps practices"
   ],
   contacts : {
+    facebook: "m.chien116",
     email: "nmchien116@gmail.com"
   },
   funFact: "Coffee first, architecture second, code third."
