@@ -19,7 +19,7 @@ const chien = {
     facebook: "m.chien116",
     email: "nmchien116@gmail.com"
   },
-  funFact: "Coffee first, architecture second, code third."
+  funFact: "Coffee first, music second, code third."
 }
 ```
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
