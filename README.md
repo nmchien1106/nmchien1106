@@ -22,4 +22,10 @@ const chien = {
   funFact: "Coffee first, music second, code third."
 }
 ```
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Skills
+
+I made projects just for fun, training my skills...
+
+| Language | Frontend | Cloud | Tools |
+|----------|----------|----------|----------|
+| <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,cpp" />| <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq" />| <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
