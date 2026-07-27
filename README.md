@@ -26,6 +26,6 @@ const chien = {
 
 I made projects just for fun, training my skills...
 
-| Language | Frameworks | Cloud | Tools |
+| Language | Frameworks | Clouds | Tools |
 |----------|----------|----------|----------|
 | <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,cpp" />| <img src="https://skillicons.dev/icons?i=react,tailwind,nestjs,express,nodejs" /> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq" />| <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
