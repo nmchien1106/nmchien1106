@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060b16,60:0d1524,100:4be3f2&height=170&section=header&text=Nguyen%20Minh%20Chien&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Da%20Nang%2C%20Vietnam&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Levi Dang — AI / Backend Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060b16,60:0d1524,100:4be3f2&height=170&section=header&text=Nguyen%20Minh%20Chien&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Da%20Nang%2C%20Vietnam&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Levi Dang — AI / Backend Engineer" />
 
 
 # Hi there 👋
