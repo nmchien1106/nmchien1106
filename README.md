@@ -12,7 +12,7 @@ const chien = {
   education: {
       university: "DUT - danang university of science and technology",
       major: "Information Technology",
-      status: "2nd year student"
+      status: "3nd year student"
   },
   currentFocus: [
     "Learning software architecture and system design",
