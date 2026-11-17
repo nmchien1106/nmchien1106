@@ -8,7 +8,6 @@ const chien = {
   name: "Nguyen Minh Chien",
   pronouns: "he" | "him",
   language : ["TypeScript", "JavaScript", "C#"],
-  architecture: ["clean architecture", "event-driven", "design system pattern"],
   education: {
       university: "DUT - danang university of science and technology",
       major: "Information Technology",
