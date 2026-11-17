@@ -24,10 +24,14 @@ const chien = {
   funFact: "Coffee first, music second, code third."
 }
 ```
-## Skills
+## Tech Stacks
 
 I made projects just for fun, training my skills...
 
-| Language | Frameworks | Clouds | Tools |
-|----------|----------|----------|----------|
-| <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,cpp" />| <img src="https://skillicons.dev/icons?i=react,tailwind,nestjs,express,nodejs" /> | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq" />| <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+| Category | Technologies |
+|:---|:---|
+| **Language** | <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,cpp,python" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,tailwind,nestjs,express,nodejs" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /> |
+| **Clouds** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq" /> |
+| **Tools & AI** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />  <img src="https://cdn.simpleicons.org/claude/DE7356" width="48" alt="Claude" /> <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" alt="ClaudeCode" /> <img src="https://cdn.simpleicons.org/googlegemini/4796E3" width="48" alt="Gemini" /> <img src="https://cdn.simpleicons.org/cursor/000000" width="48" alt="Cursor" /> |
